@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FarmaciaFrontEnd.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FrontEndFarmacia.frmBuscarClientes.resources
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FrontEndFarmacia.frmBusquedaMedicamentos.resources
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FrontEndFarmacia.Presentacion.frmBusquedaPresupuestoPorFechaYcliente.resources
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FrontEndFarmacia.Presentacion.frmBusquedaPresupuestoPorNroPresup.resources
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FrontEndFarmacia.frmBusquedasPpal.resources
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FrontEndFarmacia.Presentacion.frmConsultarPresupuesto.resources
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FrontEndFarmacia.Presentacion.frmNuevoPresupuesto.resources
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FarmaciaFrontEnd.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FarmaciaFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FarmaciaFrontEnd.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FarmaciaFrontEnd.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Farmacia\FarmaciaFrontEnd\obj\Debug\net6.0-windows\FarmaciaFrontEnd.csproj.CoreCompileInputs.cache

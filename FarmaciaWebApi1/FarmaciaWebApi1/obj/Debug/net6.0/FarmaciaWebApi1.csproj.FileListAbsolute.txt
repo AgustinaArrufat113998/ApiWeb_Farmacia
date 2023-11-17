@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\FarmaciaWebApi1\FarmaciaWebApi1\obj\Debug\net6.0\FarmaciaWebApi1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\FarmaciaWebApi1\FarmaciaWebApi1\obj\Debug\net6.0\FarmaciaWebApi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\FarmaciaWebApi1\FarmaciaWebApi1\obj\Debug\net6.0\FarmaciaWebApi1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\FarmaciaWebApi1\FarmaciaWebApi1\obj\Debug\net6.0\FarmaciaWebApi1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\FarmaciaWebApi1\FarmaciaWebApi1\obj\Debug\net6.0\FarmaciaWebApi1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\FarmaciaWebApi1\FarmaciaWebApi1\obj\Debug\net6.0\FarmaciaWebApi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\FarmaciaWebApi1\FarmaciaWebApi1\obj\Debug\net6.0\FarmaciaWebApi1.MvcApplicationPartsAssemblyInfo.cache

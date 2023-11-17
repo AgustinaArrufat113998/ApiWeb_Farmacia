@@ -1,0 +1,10 @@
+C:\Users\ferna\Documents\Tup 2023\Progra II\ApiWeb_Farmacia\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Tup 2023\Progra II\ApiWeb_Farmacia\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Tup 2023\Progra II\ApiWeb_Farmacia\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Tup 2023\Progra II\ApiWeb_Farmacia\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.AssemblyInfo.cs
+C:\Users\ferna\Documents\Tup 2023\Progra II\ApiWeb_Farmacia\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion 2023\TP\WEB API PROYECTO\BackEndFarmacia\BackEndFarmacia\obj\Debug\net6.0-windows\BackEndFarmacia.csproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "kp2Uxfl3X1FJi1Nwl28Nl66G4Tt2d1SrUZjmJJ1XGH2ou3Y1JmVy8aqlUty2Ir+eUG6+g7KHG7erEMZNRiz7wQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Programacion 2023\\TP\\WEB API PROYECTO\\FarmaciaWebApi1\\FarmaciaWebApi1\\FarmaciaWebApi1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto BackEndFarmacia no es compatible con net6.0 (.NETCoreApp,Version=v6.0). El proyecto BackEndFarmacia admite: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "BackEndFarmacia",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
